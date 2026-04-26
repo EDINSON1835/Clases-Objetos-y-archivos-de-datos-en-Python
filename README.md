@@ -1,18 +1,18 @@
-# 📊 Evidencia Final — Python: POO, CSV y APIs
+#  Evidencia Final — Python: POO, CSV y APIs
 
 Este proyecto demuestra el uso de **Programación Orientada a Objetos (POO)**, manejo de **archivos CSV** y consumo de **APIs REST** en Python, integrando todo en un flujo práctico de análisis de datos.
 
 ---
 
-## 🚀 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
-* 🐍 Python 3
-* 📦 Módulos estándar: `csv`, `json`, `urllib`
-* 🌐 Consumo de API pública (JSONPlaceholder)
+*  Python 3
+*  Módulos estándar: `csv`, `json`, `urllib`
+*  Consumo de API pública (JSONPlaceholder)
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 proyecto_api_python/
@@ -25,9 +25,9 @@ proyecto_api_python/
 
 ---
 
-## 🧠 Funcionalidades
+##  Funcionalidades
 
-### 🔹 1. Programación Orientada a Objetos (POO)
+###  1. Programación Orientada a Objetos (POO)
 
 * Clase `CarritoCompras`
 * Métodos:
@@ -43,7 +43,7 @@ proyecto_api_python/
 
 ---
 
-### 🔹 2. Manejo de archivos CSV
+###  2. Manejo de archivos CSV
 
 * Escritura de datos en `frutas.csv`
 * Lectura de datos desde CSV
@@ -54,7 +54,7 @@ proyecto_api_python/
 
 ---
 
-### 🔹 3. Consumo de API (JSONPlaceholder)
+###  3. Consumo de API (JSONPlaceholder)
 
 * Obtención de usuarios
 * Obtención de álbumes
@@ -66,7 +66,7 @@ proyecto_api_python/
 
 ---
 
-### 🔹 4. Manejo de JSON
+###  4. Manejo de JSON
 
 * Serialización y deserialización:
 
@@ -77,7 +77,7 @@ proyecto_api_python/
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
 
@@ -99,7 +99,7 @@ python main.py
 
 ---
 
-## 📌 Resultados esperados
+##  Resultados esperados
 
 * ✔ Visualización de un carrito de compras
 * ✔ Creación y lectura de archivos CSV
@@ -108,7 +108,7 @@ python main.py
 
 ---
 
-## 🎯 Objetivo académico
+##  Objetivo académico
 
 Este proyecto tiene como finalidad aplicar conceptos fundamentales de:
 
@@ -119,7 +119,7 @@ Este proyecto tiene como finalidad aplicar conceptos fundamentales de:
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 **Edinson Mena**
 Proyecto académico — Analítica de Datos
@@ -127,7 +127,7 @@ IUDIGITAL de Antioquia
 
 ---
 
-## ⭐ Recomendación
+##  Recomendación
 
 Si este proyecto te parece útil, puedes darle una ⭐ en el repositorio.
 
